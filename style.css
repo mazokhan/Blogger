@@ -1,7 +1,10 @@
+body{
+    color: black;
+}
+
 .header-container{
     background-color: red;
     height: 80px;
-
 }
 
 .content-container{
